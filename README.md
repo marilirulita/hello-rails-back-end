@@ -1,24 +1,91 @@
-# README
+![](https://img.shields.io/badge/Microverse-salmon)
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# Hello Rails Back-end
+> Backed api that implement a connection whit a React front-end repositori.
 
-Things you may want to cover:
+## Built With
+- Ruby
+- Rails
+- SQL
 
-* Ruby version
+# Getting Started
 
-* System dependencies
+To get a local copy up and running follow these simple example steps.
 
-* Configuration
+- Run this command in your OS terminal to get a copy of the project:
 
-* Database creation
+  ```
+  git clone git@github.com:marilirulita/hello-rails-back-end.git
+  ```
 
-* Database initialization
+- Open the folder project from your code editor using:
 
-* How to run the test suite
+  ```
+  cd hello-rails-back-end
+  ```
 
-* Services (job queues, cache servers, search engines, etc.)
+- Run the following commands:
 
-* Deployment instructions
+  *To install all gems package in your system:*
 
-* ...
+  ```
+  bundle install
+  ```
+  
+  *To create a database for the project in your system:*
+
+  ```
+  rails db:create
+  ```
+
+  *To add migrations for the project in your system:*
+
+  ```
+  rails db:migrate
+  ```
+  
+  *To start the project:*
+
+  ```
+  rails server
+  ```
+
+- To see your application in action, open a browser window and navigate to http://localhost:3000.
+
+
+### Prerequisites
+
+- Code Editor
+- Ruby
+- SQLite3
+- Node
+- Yarn
+- PostgreSQL
+
+
+## Authors
+
+👤 **Mar Bautista**
+
+- GitHub: [marilirulita](https://github.com/marilirulita)
+- LinkedIn: [mar bautista](https://www.linkedin.com/in/marbautista/)
+- Twitter: [@marylirulita](https://twitter.com/marylirulita)
+
+
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
+ ## Show your support
+
+ Give a ⭐️ if you like this project!
+
+ ## Acknowledgments
+
+ - Microverse: [microverse community](https://github.com/microverseinc)
+
+ ## 📝 License
+
+ This project is [MIT](./LICENSE) licensed.
