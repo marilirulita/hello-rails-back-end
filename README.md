@@ -1,9 +1,11 @@
 ![](https://img.shields.io/badge/Microverse-salmon)
 
 # Hello Rails Back-end
+
 > Backed api that implement a connection whit a React front-end repositori.
 
 ## Built With
+
 - Ruby
 - Rails
 - SQL
@@ -50,10 +52,9 @@ To get a local copy up and running follow these simple example steps.
   rails server
   ```
 
-- To see your application in action, open a browser window and navigate to http://localhost:3000.
+- To see your application in action, open a browser window and navigate to <http://localhost:3000>.
 
-
-### Prerequisites
+## Prerequisites
 
 - Code Editor
 - Ruby
@@ -61,7 +62,6 @@ To get a local copy up and running follow these simple example steps.
 - Node
 - Yarn
 - PostgreSQL
-
 
 ## Authors
 
@@ -71,21 +71,20 @@ To get a local copy up and running follow these simple example steps.
 - LinkedIn: [mar bautista](https://www.linkedin.com/in/marbautista/)
 - Twitter: [@marylirulita](https://twitter.com/marylirulita)
 
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
 
 Feel free to check the [issues page](../../issues/).
 
- ## Show your support
+## Show your support
 
  Give a ⭐️ if you like this project!
 
- ## Acknowledgments
+## Acknowledgments
 
- - Microverse: [microverse community](https://github.com/microverseinc)
+- Microverse: [microverse community](https://github.com/microverseinc)
 
- ## 📝 License
+## 📝 License
 
  This project is [MIT](./LICENSE) licensed.
