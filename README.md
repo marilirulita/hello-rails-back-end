@@ -2,13 +2,17 @@
 
 # Hello Rails Back-end
 
-> Backed api that implement a connection whit a React front-end repositori.
+> Backed api that implement a connection whit a React front-end app.
 
 ## Built With
 
 - Ruby
 - Rails
 - SQL
+
+## Link to Frontend App
+
+**[hello-react-front-end](https://github.com/marilirulita/hello-react-front-end)**
 
 # Getting Started
 
